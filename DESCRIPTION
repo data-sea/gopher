@@ -1,0 +1,10 @@
+Package: gopher
+Type: Package
+Title: Helper functions.
+Version: 0.1.0
+Author: David Christensen
+Maintainer: David Christensen 
+Description: Intial release includes function expand_vector()
+License: GNU General Public License version 3
+Encoding: UTF-8
+LazyData: true
