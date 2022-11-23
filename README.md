@@ -4,7 +4,7 @@ R package with helper function `expand_vector()` for finding all combinations of
 - Tibble has column(s) equal to the number of input vectors.
 - Vectors can be any length.
 - Uses `rep()` to build the the combinations of vectors.
-- Similar to `tidyr::expand_grid()`, but used the same column naming convention as `base::expand.grid()`.
+- Similar to `tidyr::expand_grid()`, but uses the same column naming convention as `base::expand.grid()`.
 
 
 ```r
