@@ -1,6 +1,6 @@
 # gopher
 R package with helper function `expand()` for finding all combinations of vector values. 
-- Output is a data fram.
+- Output should be a list of vectors or a data frame.
 - Vectors can be any length.
 - Similar to `tidyr::expand_grid()`, but uses the same column naming convention as `base::expand.grid()`.
 
