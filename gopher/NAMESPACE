@@ -1,0 +1,4 @@
+useDynLib(gopher, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
+useDynLib(gopher)

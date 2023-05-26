@@ -1,0 +1,11 @@
+Package: gopher
+Type: Package
+Title: A utilty package
+Version: 0.1
+Date: 2023-05-25
+Author: David Christensen
+Maintainer: David <David.r.christensen@gmail.com>
+Description: A utilty package using Rcpp and R.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.10)
+LinkingTo: Rcpp
